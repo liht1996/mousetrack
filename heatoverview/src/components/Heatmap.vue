@@ -118,5 +118,6 @@ export default {
   width: 200px;
   float: right;
   margin-right: 200px;
+  margin-top: 100px
 }
 </style>
